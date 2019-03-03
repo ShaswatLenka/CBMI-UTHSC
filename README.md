@@ -22,3 +22,5 @@ time_to_sepsis development.
 
 ### Level 0 DFD
 ![level0DFD](https://github.com/ShaswatLenka/CBMI-UTHSC/blob/master/images/level%200.png)
+### Level 1 DFD
+![level1DFD](https://github.com/ShaswatLenka/CBMI-UTHSC/blob/master/images/level%201.png)
