@@ -21,3 +21,4 @@ the application would also have a visualization component for
 time_to_sepsis development.
 
 ### Level 0 DFD
+![level0DFD](https://github.com/ShaswatLenka/CBMI-UTHSC/blob/master/images/level%200.png)
