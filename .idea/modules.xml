@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CBMI@UTHSC-Prototype.iml" filepath="$PROJECT_DIR$/.idea/CBMI@UTHSC-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GE Healthcare Hackathon-2018/DelDashProject/.idea/DelDashProject.iml" filepath="$PROJECT_DIR$/../../GE Healthcare Hackathon-2018/DelDashProject/.idea/DelDashProject.iml" />
     </modules>
   </component>
 </project>
