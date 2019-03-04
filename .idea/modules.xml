@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CBMI@UTHSC-Prototype.iml" filepath="$PROJECT_DIR$/.idea/CBMI@UTHSC-Prototype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../GE Healthcare Hackathon-2018/DelDashProject/.idea/DelDashProject.iml" filepath="$PROJECT_DIR$/../../GE Healthcare Hackathon-2018/DelDashProject/.idea/DelDashProject.iml" />
-    </modules>
-  </component>
-</project>
