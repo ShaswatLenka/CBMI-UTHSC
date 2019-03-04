@@ -1,4 +1,3 @@
-.idea/
-.ipynb_checkpoints/
-__psycache__/
-
+.idea
+.ipynb_checkpoints
+__psycache__
