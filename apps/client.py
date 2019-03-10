@@ -2,7 +2,8 @@
 import dash_html_components as html
 # from dash.dependencies import Input, Output
 # from app import app
-import requests, json
+import requests
+import json
 
 # call the API
 api_url = "http://localhost:9000/api"
